@@ -1,0 +1,13 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+.container {
+	width: 1140px;
+	height: 800px;
+}
+
+.promo {
+	background: url(../img/bg.jpg) 50%/cover no-repeat;
+}
